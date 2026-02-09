@@ -13,7 +13,7 @@ An end-to-end Computer Vision system designed to automate human profiling. This 
 * **Interactive Web UI:** Built with Streamlit for seamless user interaction and deployment.
 
 ## System Preview
-![System Demo](link_to_your_screenshot.png)
+![System Demo](https://github.com/norfadzlinf-code/FYP-Profile-Generation/commit/44fc6b5da140be9143d71d386a06affad23d2d4d)
 *Example output showing the automated generation of a human profile with prediction speed metrics.*
 
 ## Technical Stack
